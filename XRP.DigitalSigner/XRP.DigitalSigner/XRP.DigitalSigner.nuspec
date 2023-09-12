@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<package>
+  <metadata>
+    <id>XRP.DigitalSigner</id>
+    <version>1.0.0</version>
+    <title>XRP.DigitalSigner</title>
+    <authors>OpenXRP</authors>
+    <requireLicenseAcceptance>false</requireLicenseAcceptance>
+    <license type="expression">MIT</license>
+    <description>A lightweight XRP library to manage seed phrases, signing transactions and decoding/encoding XRP addresses</description>
+    <releaseNotes>Package Update</releaseNotes>
+    <copyright>2023</copyright>
+    <tags></tags>
+  </metadata>
+
+  <files>
+    <file src="bin\Release\netstandard2.0\XRP.DigitalSigner.dll" target="lib\netstandard2.0\XRP.DigitalSigner.dll"/>
+  </files>
+</package>
