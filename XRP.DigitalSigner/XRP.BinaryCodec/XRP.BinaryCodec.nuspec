@@ -1,13 +1,13 @@
 <?xml version="1.0" encoding="utf-8"?>
 <package>
   <metadata>
-    <id>XRP.DigitalSigner</id>
+    <id>XRP.BinaryCodec</id>
     <version>1.0.0</version>
-    <title>XRP.DigitalSigner</title>
+    <title>XRP.BinaryCodec</title>
     <authors>OpenXRP</authors>
     <requireLicenseAcceptance>false</requireLicenseAcceptance>
     <license type="expression">MIT</license>
-    <description>A lightweight XRP library to manage seed phrases, signing transactions and decoding/encoding XRP addresses</description>
+    <description>A lightweight XRP library to manage Binary Encoding for the XRP Ledger</description>
     <releaseNotes>Package Update</releaseNotes>
     <copyright>2023</copyright>
     <tags>xrp,blockchain,bip39,bip32,signer</tags>
@@ -16,6 +16,6 @@
 
   <files>
     <file src="xrp.png" target="xrp.png"/>
-    <file src="bin\Release\netstandard2.0\XRP.DigitalSigner.dll" target="lib\netstandard2.0\XRP.DigitalSigner.dll"/>
+    <file src="bin\Release\netstandard2.0\XRP.BinaryCodec.dll" target="lib\netstandard2.0\XRP.BinaryCodec.dll"/>
   </files>
 </package>

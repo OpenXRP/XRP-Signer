@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+<package>
+  <metadata>
+    <id>OpenXRP.AddressCodec</id>
+    <version>1.0.1</version>
+    <title>OpenXRP.AddressCodec</title>
+    <authors>OpenXRP</authors>
+    <requireLicenseAcceptance>true</requireLicenseAcceptance>
+    <license type="expression">MIT</license>
+    <description>A lightweight XRP library to manage decoding/encoding XRP addresses from classical to latest formats</description>
+    <releaseNotes>Package Update</releaseNotes>
+    <copyright>2023</copyright>
+    <tags>xrp,blockchain,bip39,bip32,codec</tags>
+    <icon>xrp.png</icon>
+  </metadata>
+
+  <files>
+    <file src="xrp.png" target="xrp.png"/>
+    <file src="bin\Release\netstandard2.0\XRP.AddressCodec.dll" target="lib\netstandard2.0\XRP.AddressCodec.dll"/>
+  </files>
+</package>
